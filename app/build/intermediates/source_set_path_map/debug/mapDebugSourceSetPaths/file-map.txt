@@ -1,0 +1,69 @@
+com.assessment.propertylisting.app-ui-util-release-0 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/0aa46418c832080c53b580a62f02195a/transformed/ui-util-release/res
+com.assessment.propertylisting.app-material-icons-core-release-1 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/0b9932014410721b7196b95657ce9606/transformed/material-icons-core-release/res
+com.assessment.propertylisting.app-lifecycle-livedata-core-ktx-2.8.7-2 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/0c64c6adca8e50aa47300e5e859581fb/transformed/lifecycle-livedata-core-ktx-2.8.7/res
+com.assessment.propertylisting.app-core-1.15.0-3 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/0e24a16e7abbd0e82a8a63fa1068eb9d/transformed/core-1.15.0/res
+com.assessment.propertylisting.app-animation-release-4 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/124365736e16040f4c952e28ac467b48/transformed/animation-release/res
+com.assessment.propertylisting.app-graphics-path-1.0.1-5 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/14700e92331428e79b149382ef853070/transformed/graphics-path-1.0.1/res
+com.assessment.propertylisting.app-ui-tooling-release-6 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/16dae5bae91119468793d7e4d17a27d4/transformed/ui-tooling-release/res
+com.assessment.propertylisting.app-ui-tooling-data-release-7 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/187b900bca957f2b6f92154d779b97b6/transformed/ui-tooling-data-release/res
+com.assessment.propertylisting.app-profileinstaller-1.3.1-8 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/1c261655a9bdba6a33ec5b3d28cd4e70/transformed/profileinstaller-1.3.1/res
+com.assessment.propertylisting.app-runtime-release-9 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/1d64213bd426580fb918996b6dbfef75/transformed/runtime-release/res
+com.assessment.propertylisting.app-ui-tooling-preview-release-10 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/21a701f59f656b6ce60d26e34e0a76c2/transformed/ui-tooling-preview-release/res
+com.assessment.propertylisting.app-savedstate-ktx-1.2.1-11 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/2efab4bd2b873980241f43639d64f85a/transformed/savedstate-ktx-1.2.1/res
+com.assessment.propertylisting.app-navigation-runtime-ktx-2.8.5-12 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/3941e8be484c3d49f906768b1ff9ffa4/transformed/navigation-runtime-ktx-2.8.5/res
+com.assessment.propertylisting.app-sqlite-framework-2.4.0-13 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/45ede40d6a44bbc796d9f98a32b26394/transformed/sqlite-framework-2.4.0/res
+com.assessment.propertylisting.app-lifecycle-viewmodel-ktx-2.8.7-14 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/46f47eeada2f416db8c21ededb627320/transformed/lifecycle-viewmodel-ktx-2.8.7/res
+com.assessment.propertylisting.app-ui-text-release-15 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/4cac3689fd8f115656014155fa80c731/transformed/ui-text-release/res
+com.assessment.propertylisting.app-lifecycle-runtime-ktx-release-16 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/4e63f657ce993505ab59dc3cc326133e/transformed/lifecycle-runtime-ktx-release/res
+com.assessment.propertylisting.app-hilt-navigation-compose-1.2.0-17 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/58de2f4dac10b4e7341a511bee74b90c/transformed/hilt-navigation-compose-1.2.0/res
+com.assessment.propertylisting.app-lifecycle-runtime-release-18 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/59830524a6eb499e18a847778f3b0026/transformed/lifecycle-runtime-release/res
+com.assessment.propertylisting.app-core-runtime-2.2.0-19 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/5e8add4dd60de7c9d1bd57133e0fd48c/transformed/core-runtime-2.2.0/res
+com.assessment.propertylisting.app-tracing-1.2.0-20 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/6740d211dc90c8923f205634cd56d9ea/transformed/tracing-1.2.0/res
+com.assessment.propertylisting.app-sqlite-2.4.0-21 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/6a22f1fb81016b9361dfe8843027d9a8/transformed/sqlite-2.4.0/res
+com.assessment.propertylisting.app-animation-core-release-22 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/6b1ec3378cf4151c5a8c53d5f6c3908c/transformed/animation-core-release/res
+com.assessment.propertylisting.app-activity-1.9.3-23 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/6dc684ce9011fcc4475926608ae8871f/transformed/activity-1.9.3/res
+com.assessment.propertylisting.app-lifecycle-viewmodel-release-24 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/6efb183a0ebc32552f07a38017092393/transformed/lifecycle-viewmodel-release/res
+com.assessment.propertylisting.app-navigation-common-ktx-2.8.5-25 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/6f02e38ca0a2f99c3fcf859cd2c19c48/transformed/navigation-common-ktx-2.8.5/res
+com.assessment.propertylisting.app-foundation-layout-release-26 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/70b6a57eeecbddc45f21a25153b61d69/transformed/foundation-layout-release/res
+com.assessment.propertylisting.app-fragment-1.5.1-27 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/75adaa656aaa7b7001f099899aee60ca/transformed/fragment-1.5.1/res
+com.assessment.propertylisting.app-room-runtime-2.6.1-28 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/7646efe0ec35970bf4c28fc9b226e30e/transformed/room-runtime-2.6.1/res
+com.assessment.propertylisting.app-annotation-experimental-1.4.1-29 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/78698a4841805b90110a4b517fdb97ac/transformed/annotation-experimental-1.4.1/res
+com.assessment.propertylisting.app-ui-test-manifest-1.7.6-30 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/7a7ea40f8d9a0b63f2e621ead1e2c129/transformed/ui-test-manifest-1.7.6/res
+com.assessment.propertylisting.app-activity-compose-1.9.3-31 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/7ada58a9b19d00deea5ad549faa041cc/transformed/activity-compose-1.9.3/res
+com.assessment.propertylisting.app-ui-unit-release-32 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/8094e2ed2b4755be9e43eb4fec21479a/transformed/ui-unit-release/res
+com.assessment.propertylisting.app-savedstate-1.2.1-33 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/83bf5118f354f931fdf3ce64e97b50ae/transformed/savedstate-1.2.1/res
+com.assessment.propertylisting.app-lifecycle-livedata-2.8.7-34 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/8cb854f2733e0afe40246cbfb1ae10c1/transformed/lifecycle-livedata-2.8.7/res
+com.assessment.propertylisting.app-navigation-runtime-2.8.5-35 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/8d2616ede214afde93c3dbe874df17d8/transformed/navigation-runtime-2.8.5/res
+com.assessment.propertylisting.app-lifecycle-process-2.8.7-36 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/8e59b08323f5c8404c9d0ad8e42e6407/transformed/lifecycle-process-2.8.7/res
+com.assessment.propertylisting.app-room-ktx-2.6.1-37 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/8f80794096564f216a5408b65bfc26b7/transformed/room-ktx-2.6.1/res
+com.assessment.propertylisting.app-material-release-38 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/8fe11da936e1ed1ee8bf8805514e6ae5/transformed/material-release/res
+com.assessment.propertylisting.app-material3-release-39 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/91ac21ce32a112edbf62a3cd6c439794/transformed/material3-release/res
+com.assessment.propertylisting.app-ui-graphics-release-40 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/939bc17f46cbec6d3e5510f3ff2087b9/transformed/ui-graphics-release/res
+com.assessment.propertylisting.app-hilt-navigation-1.2.0-41 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/998bb7f031f44409410e8772a2f28769/transformed/hilt-navigation-1.2.0/res
+com.assessment.propertylisting.app-activity-ktx-1.9.3-42 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/9c933656b2f8d09c9db68d36d95e5953/transformed/activity-ktx-1.9.3/res
+com.assessment.propertylisting.app-navigation-common-2.8.5-43 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/a15f191cbe0f16086c9215085c31d1ff/transformed/navigation-common-2.8.5/res
+com.assessment.propertylisting.app-lifecycle-viewmodel-savedstate-2.8.7-44 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/b2df4047f38561d8445151e1b15fa6b8/transformed/lifecycle-viewmodel-savedstate-2.8.7/res
+com.assessment.propertylisting.app-coil-base-2.7.0-45 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/b438a6170216d26e5d57f9709a5de45a/transformed/coil-base-2.7.0/res
+com.assessment.propertylisting.app-foundation-release-46 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/b4a37ea2bd94a84bb8bef3bb48594bc4/transformed/foundation-release/res
+com.assessment.propertylisting.app-lifecycle-viewmodel-compose-release-47 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/b67de632adae78f7dbfed9190d5df65d/transformed/lifecycle-viewmodel-compose-release/res
+com.assessment.propertylisting.app-emoji2-1.3.0-48 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/b7c218730b3248f62209bad19bb9e701/transformed/emoji2-1.3.0/res
+com.assessment.propertylisting.app-startup-runtime-1.1.1-49 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/b9e943c10f37c78013dd70f280cfeed2/transformed/startup-runtime-1.1.1/res
+com.assessment.propertylisting.app-lifecycle-runtime-compose-release-50 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/c334194142ab48b54646d62a5e16fdde/transformed/lifecycle-runtime-compose-release/res
+com.assessment.propertylisting.app-ui-geometry-release-51 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/c70334d8ce34d8cd07c09c359b234016/transformed/ui-geometry-release/res
+com.assessment.propertylisting.app-runtime-saveable-release-52 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/c7b0383c2dd9e11d9c52140c1babf907/transformed/runtime-saveable-release/res
+com.assessment.propertylisting.app-appcompat-resources-1.6.1-53 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/cadeee69496ab14be4b4423aefa18505/transformed/appcompat-resources-1.6.1/res
+com.assessment.propertylisting.app-lifecycle-livedata-core-2.8.7-54 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/d1e768085a3c64f1b18cf01180afe998/transformed/lifecycle-livedata-core-2.8.7/res
+com.assessment.propertylisting.app-core-ktx-1.15.0-55 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/d36094183c428ae0e163d0c990514613/transformed/core-ktx-1.15.0/res
+com.assessment.propertylisting.app-customview-poolingcontainer-1.0.0-56 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/d7db54073ec91148ba114e44085ddcdc/transformed/customview-poolingcontainer-1.0.0/res
+com.assessment.propertylisting.app-ui-release-57 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/e6a6c5099dac1c8a53b10891c74fb09a/transformed/ui-release/res
+com.assessment.propertylisting.app-navigation-compose-2.8.5-58 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/edcac0da2b74a29e8dd082ed1511876a/transformed/navigation-compose-2.8.5/res
+com.assessment.propertylisting.app-material-icons-extended-release-59 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/efa92baaa1ba130ebd71f5fb0f6271aa/transformed/material-icons-extended-release/res
+com.assessment.propertylisting.app-material-ripple-release-60 /Users/ramdhatarwal/.gradle/caches/8.13/transforms/fd286d2d07869576a8760c48bdd5570f/transformed/material-ripple-release/res
+com.assessment.propertylisting.app-pngs-61 /Users/ramdhatarwal/Documents/Android/ Project/PropertyListing/app/build/generated/res/pngs/debug
+com.assessment.propertylisting.app-resValues-62 /Users/ramdhatarwal/Documents/Android/ Project/PropertyListing/app/build/generated/res/resValues/debug
+com.assessment.propertylisting.app-updated_navigation_xml-63 /Users/ramdhatarwal/Documents/Android/ Project/PropertyListing/app/build/generated/updated_navigation_xml/debug
+com.assessment.propertylisting.app-packageDebugResources-64 /Users/ramdhatarwal/Documents/Android/ Project/PropertyListing/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.assessment.propertylisting.app-packageDebugResources-65 /Users/ramdhatarwal/Documents/Android/ Project/PropertyListing/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.assessment.propertylisting.app-debug-66 /Users/ramdhatarwal/Documents/Android/ Project/PropertyListing/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.assessment.propertylisting.app-debug-67 /Users/ramdhatarwal/Documents/Android/ Project/PropertyListing/app/src/debug/res
+com.assessment.propertylisting.app-main-68 /Users/ramdhatarwal/Documents/Android/ Project/PropertyListing/app/src/main/res
